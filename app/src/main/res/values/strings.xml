@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">Tutorial</string>
-    <string name="Click_aqui">Click aqui</string>
+    <string name="buttonName">Click aqui</string>
+    <string name="opctionName">opciones</string>
+    <string name="titleName">HOLA A TODOS!</string>
+    <string name="linkName">Holaatodos.com.pe</string>
+
 </resources>

@@ -22,7 +22,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Holaatodos.com.pe"
+        android:text="@string/linkName"
         android:textColor="@color/purple"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -35,7 +35,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:background="@color/turquoise"
-        android:text="HOLA A TODOS!"
+        android:text="@string/titleName"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textColor="@color/purple"
         android:textSize="30sp"
@@ -50,7 +50,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="opciones"
+        android:text="@string/opctionName"
         android:textAppearance="@style/TextAppearance.AppCompat.Body2"
         android:textColor="@color/white"
         android:textSize="20sp"
@@ -62,10 +62,10 @@
         app:layout_constraintVertical_bias="0.05" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/buttonOne"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/Click_aqui"
+        android:text="@string/buttonName"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
