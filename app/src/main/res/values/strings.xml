@@ -1,9 +1,26 @@
 <resources>
+    //FirstLayout
     <string name="app_name">Tutorial</string>
-    <string name="buttonName">Click aqui</string>
-    <string name="opctionName">opciones</string>
-    <string name="titleName">HOLA A TODOS!</string>
-    <string name="titleNameTwo">ADIOS A TODOS!</string>
-    <string name="linkName">Holaatodos.com.pe</string>
+    <string name="buttonName">Click here</string>
+    <string name="opctionName">options</string>
+    <string name="titleName">HELLO EVERYONE!</string>
+    <string name="titleNameTwo">GOOD BYE!</string>
+    <string name="linkName">Helloeveryone.com.pe</string>
+    <string name="EnterButton">Enter here</string>
+    //SecondLayout
+    <string name="password_name">Password</string>
+    <string name="mail_name">e-mail</string>
+    <string name="username_name">Username</string>
+    <string name="login_button">Login</string>
+    <string name="Register_button">Register</string>
+    <string name="PasswordText">carlitos</string>
+    <string name="EmailText">cordova.2000@gmail.com</string>
+    //ThirdLayout
+    <string name="username_write">Username</string>
+    <string name="numberOfPhone_write">Number</string>
+    <string name="password_Write">Password</string>
+    <string name="mail_write">mail</string>
+    <string name="createYourAccount">Create your account</string>
+
 
 </resources>
