@@ -60,7 +60,7 @@
         android:layout_margin="50sp"
         android:layout_marginTop="11dp"
         android:background="@color/purple"
-        android:drawableLeft="@drawable/baseline_email_24"
+        android:drawableLeft="@drawable/baseline_alternate_email_24"
         android:drawablePadding="10dp"
         android:hint="@string/mail_write"
         android:padding="20dp"

@@ -26,7 +26,7 @@ public class CompleteRequest extends AppCompatActivity {
         username = findViewById(R.id.editTextText2);
         paasword = findViewById(R.id.editTextTextPassword2);
         buttonLogin.setOnClickListener (view -> {
-            if (username.getEditableText().toString().equals("cordova.2000@gmail.com") && paasword.getEditableText().toString().equals("carlitos")){
+            if (username.getEditableText().toString().equals("carlitos") && paasword.getEditableText().toString().equals("carlitos")){
                 Toast.makeText(CompleteRequest.this, "Login successfull", Toast.LENGTH_LONG).show();
             }else{
                 Toast.makeText(CompleteRequest.this, "LOGIN FAILED", Toast.LENGTH_LONG).show();
